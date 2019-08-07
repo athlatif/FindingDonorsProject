@@ -9,6 +9,8 @@ The project aims to evaluate and select the optimal supervised learning algorith
 Based on the accuracy and f-score and the training time the best model is Random Forest Classifier (RFC).
 Since we are dealing with a classfication problem using Random Forest would be optimal and fast and easy to communicate results to the stakeholders.
 
+### Steps
+
 #### preprocessing
 - Transforming Skewed Continuous Features
 - Normalizing Numerical Features
