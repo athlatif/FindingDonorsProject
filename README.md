@@ -11,12 +11,12 @@ Since we are dealing with a classfication problem using Random Forest would be o
 
 ### Steps
 
-#### preprocessing
+####1. preprocessing
 - Transforming Skewed Continuous Features
 - Normalizing Numerical Features
 - One-hot Encoding
-#### Implement performance metrics to evaluate the potential algorithms
-#### Choosing the Best Model & Model Tuning
+####2. Implement performance metrics to evaluate the potential algorithms
+####3.  Choosing the Best Model & Model Tuning
 
 
 
